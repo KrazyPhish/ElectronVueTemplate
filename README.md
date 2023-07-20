@@ -67,8 +67,8 @@ export default defineConfig({
 })
 ```
 
-### 5 then when you dev or build the frontend will also create the electron dev or build, electron window start like this
-### 然后在调试或打包前端文件时也会同时创建或打包 electron 的调试窗口或打包electron，就像下图这样
+### 5 then when you dev or build the frontend will also create the electron dev window or build electron, electron window start like this
+### 然后在调试或打包前端文件时也会同时创建 electron 的调试窗口或打包electron，就像下图这样
 
 ![image1](https://github.com/KrazyPhish/ElectronVueTemplate/blob/master/src/assets/dev_show.png)
 
